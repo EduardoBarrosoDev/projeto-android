@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('/Estilo/fontes/idroid.otf') format(opentype);
+    src: url(fontes/idroid.otf) format(opentype);
 }
 /* cores utilizadas seguido por tons de claridade
 #c5ebd6
